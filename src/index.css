@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Silent Landfield";
+    src: local("Silent Landfield"),
+    url("./fonts/silent_landfield.ttf") format("truetype");
+;
+}
+
+/**{*/
+/*    font-family: "Silent Landfield", serif;*/
+/*}*/
